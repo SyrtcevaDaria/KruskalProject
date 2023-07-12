@@ -1,0 +1,2 @@
+# KruskalProject
+Syrtceva Khabibullina Kuklina
